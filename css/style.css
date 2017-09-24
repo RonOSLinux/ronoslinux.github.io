@@ -308,4 +308,17 @@ a {
     .arrow_up {
         display: none;
     }
+    
+    .copyright {
+        height: 26%;
+        top: 74%;
+    }
+    
+    .copyright p {
+        font-size: 14px;
+    }
+    
+    .copyright p .link {
+        font-size: 14px;
+    }
 }
